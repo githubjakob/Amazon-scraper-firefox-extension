@@ -4,6 +4,8 @@ Small POC of a Firefox extension that reads title and the price of a Amazon prod
 
 Build based on the tutorial https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension
 
+<video width="350px" src="https://github.com/githubjakob/amazon-scraper-firefox-extension/raw/master/doc/example.mp4" controls></video>
+
 ## Installation
 
 Go to about:debugging and add the `manifest.json` as a temporary extension.
